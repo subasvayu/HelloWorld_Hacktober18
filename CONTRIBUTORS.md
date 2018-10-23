@@ -1,7 +1,5 @@
 # List of contributors for Hactoberfest'18
 
-
-=======
 # Anurita Srivastava
 
 ## Whoami:
@@ -23,3 +21,8 @@ I’m a student and a tech lover currently living in Kanpur, Uttar Pradesh, Indi
 
 - [You can know more about me here](https://harsh98trivedi.github.io/blog/Hello-World)
 - [Github](https://github/com/harsh98trivedi)
+
+=======
+# Omkar Deshpande
+
+- [Github](https://github.com/omkar-dsd)
