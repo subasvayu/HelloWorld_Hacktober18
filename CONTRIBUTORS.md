@@ -1,5 +1,7 @@
 # List of contributors for Hactoberfest'18
 
+
+=======
 # Anurita Srivastava
 
 ## Whoami:
@@ -9,3 +11,8 @@ I work on iOS Development majorly, with two apps on the store. Data Analysis fas
 
 [Check out my GitHub](https://github.com/AnuritaS/)
 
+=======
+
+# Dmytro Potykevych
+
+- [Github](https://github.com/dbitwy)
