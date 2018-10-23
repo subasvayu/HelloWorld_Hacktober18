@@ -26,3 +26,8 @@ I’m a student and a tech lover currently living in Kanpur, Uttar Pradesh, Indi
 # Omkar Deshpande
 
 - [Github](https://github.com/omkar-dsd)
+
+=======
+# Riya Waghmare
+
+- [Github](https://github.com/RiyaWaghmare)
