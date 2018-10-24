@@ -32,7 +32,6 @@ I’m a student and a tech lover currently living in Kanpur, Uttar Pradesh, Indi
 
 - [Github](https://github.com/RiyaWaghmare)
 
-
 =======
 # Blessing Pariola
 
