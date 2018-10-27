@@ -7,7 +7,7 @@ I’m an Information Technology major undergraduate student currently residing i
 
 I work on iOS Development majorly, with two apps on the store. Data Analysis fascinates me and I hope to work on same in future. Like to code in Java and Python. Apart from that, I prefer working in the language best suited for the job.
 
-[Check out my GitHub](https://github.com/AnuritaS/)
+- [GitHub](https://github.com/AnuritaS/)
 
 =======
 # Dmytro Potykevych
@@ -44,7 +44,7 @@ I'm a student studying in Kwara State University, Nigeria. I'm a tech enthusiast
 # Chathurika Senani:
 I'm a fresh graduate from Sri Lanka working as a front end developer currently.
 
-[GitHub](https://github.com/zenara/)
+- [GitHub](https://github.com/zenara/)
 
 =======
 # Appygal
